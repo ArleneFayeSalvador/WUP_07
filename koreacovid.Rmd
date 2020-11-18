@@ -66,8 +66,15 @@ Females dead is 36 percent and males dead is 64 percent.
 
 ## Inferential results 
 
-
-
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
+The odds of dying if you're a male is 44/1411.
+The odds of dying if you're a female is 25/1381.
+The odds ratio is (44/1411)/(25/1381).
+THe odds of dying are 2.3 to 1.
 
 ## Conclusions
 
