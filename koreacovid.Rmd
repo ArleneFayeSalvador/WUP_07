@@ -78,3 +78,4 @@ THe odds of dying are 2.3 to 1.
 
 ## Conclusions
 
+According to the percent bar chart, we can see that more females have a higher chance at being alive than males and males have a lower chance at being alive than females. In the chisq test, we see the P-Value is 0.0012, which is less than 0.05, so we reject the null hypothesis.
