@@ -39,7 +39,7 @@ with(kRdata, table(Sex, result))
 ## We create two bar charts - one based on frequency and the other on percent
 
 ```{r}
-barchartGC(~result + Sex,data=kRdata, main ="Percent Bar Chart")
+barchartGC(~result + Sex,data=kRdata, main ="Frequency Bar Chart")
 ```
 
   
